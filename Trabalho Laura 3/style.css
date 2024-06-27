@@ -1,0 +1,23 @@
+.navbar-twitter {
+    background-color: #1DA1F2; 
+    color: white;
+}
+.navbar-twitter .navbar-brand,
+.navbar-twitter .nav-link,
+.navbar-twitter .navbar-text {
+    color: white;
+}
+.btn-twitter {
+    background-color: #1DA1F2; 
+    color: white;
+}
+.btn-twitter:hover {
+    background-color: #0d8dd7; 
+}
+.like-btn.liked {
+    background-color: #e0245e; 
+    color: white;
+}
+.card-twitter {
+    border: 1px solid #1DA1F2; 
+}
